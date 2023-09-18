@@ -35,7 +35,7 @@ from stable_baselines3.common.vec_env import DummyVecEnv, SubprocVecEnv, VecChec
 from stable_baselines3.common.env_checker import check_env
 import os
 import gym
-import fedtrain
+#import fedtrain
 from stable_baselines3.common.noise import NormalActionNoise
 from stable_baselines3.common.callbacks import CheckpointCallback
 import numpy as np
